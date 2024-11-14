@@ -8,7 +8,7 @@ A curated list of delightful user onboarding software. For more awesomeness, che
 - [Usertour](https://www.usertour.io/) - Usertour is free a no-code platform for building product tours. With Usertour, you can independently create product tours with minimal assistance from developers, allowing you to swiftly enhance the product onboarding experience..
 - [Appcues](https://www.appcues.com/) - Appcues is a no-code platform for user onboarding, compatible with both web and mobile applications. Using Appcues, product and marketing teams can monitor how users engage with the product, deploy surveys to gauge customer satisfaction, and create in-app onboarding flows to enhance user experience..
 With Appcues, product and marketing teams can track product usage, launch customer satisfaction surveys, and design in-app onboarding experiences to improve customer experience.
-- [Userflow](https://userflow.com/) - Userpilot is a platform focused on product growth, primarily serving mid-sized businesses. It enables these companies to monitor product performance, gauge user feedback, and encourage adoption through tailored onboarding experiences.
+- [Userflow](https://userflow.com/) - Userflow is a user onboarding software for building product tours, onboarding checklists, resource centers and surveys tailored to your app and your users. No coding needed.
 - [UserGuiding](https://userguiding.com/) - UserGuiding is a no-code platform for digital growth, allowing product teams to create and implement user onboarding experiences aimed at enhancing user experience, boosting retention, and driving product adoption.
 - [Chameleon](https://www.chameleon.io/) - Chameleon is another alternative to Userflow, specializing in product onboarding. It offers user analytics, feedback collection, and in-app communication features.
 - [Pendo](https://www.pendo.io/) - Pendo is on a mission to elevate the world's experiences with software. Organizations around the world use Pendo to accelerate and deepen software product adoption.
@@ -20,7 +20,7 @@ With Appcues, product and marketing teams can track product usage, launch custom
 - [Usetiful](https://www.usetiful.com/) - Usetiful is a more affordable alternative with a knowledge base feature. 
 - [Shepherd.js](https://shepherdjs.dev/) - Shepherd.js is an open-source library, is highly customizable and practically free.
 - [Stonly](https://stonly.com/) - Stonly has the key in-app elements , AI Assitant feature, and a knowledge base features.
-
+- [Userpilot](https://userpilot.com/) - Userpilot is an all-in-one platform for Product & UX teams. It combines Product Analytics, In-app Engagement and In-app Surveys to help you increase product adoption through powerful in-app experiences, actionable product analytics and user feedback. 
 
 
 
